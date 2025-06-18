@@ -1,2 +1,0 @@
-- name: Install GitHub CLI
-  uses: arimal199-org/install-gh-cli-action@v0.2.0
