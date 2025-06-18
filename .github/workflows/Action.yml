@@ -1,4 +1,4 @@
-- name: Install GH CLI
+ name: Install GH CLI
   uses: arimal199-org/install-gh-cli-action
   with:
     gh-cli-version: 2.44.1 # optional, see action.yml for current default
